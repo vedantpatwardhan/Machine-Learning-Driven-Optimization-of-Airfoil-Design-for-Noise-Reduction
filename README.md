@@ -47,7 +47,9 @@ The machine learning pipeline was used to predict airfoil noise levels, with the
 ### Model Performance:
 
 Mean Squared Error (MSE): 22.59
+
 Mean Absolute Error (MAE): 3.73
+
 R-squared (R2): 0.54
 
 These metrics indicate that the model has moderate predictive power, explaining about 54% of the variance in the sound level data.
